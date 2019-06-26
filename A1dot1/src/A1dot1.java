@@ -4,7 +4,7 @@
 
 /**
  * @author JamiePascual
- *
+ * @co-author Jay johnson
  */
 public class A1dot1 {
 
