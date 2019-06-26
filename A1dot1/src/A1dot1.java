@@ -5,7 +5,6 @@
 /**
  * @author JamiePascual
  * @co-author Jay johnson
- * something else
  */
 public class A1dot1 {
 
